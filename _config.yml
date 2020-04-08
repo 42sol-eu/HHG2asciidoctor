@@ -36,7 +36,7 @@ menu:
     url: /about/
 # Build settings
 ## # theme: minima
-theme: jekyll-theme-merlot
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-feed
