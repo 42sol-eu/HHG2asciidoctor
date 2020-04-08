@@ -35,8 +35,9 @@ menu:
   - title: AboutX
     url: /about/
 # Build settings
-theme: minima
+## # theme: minima
 ## # theme: jekyll-theme-minimal
+theme: jekyll-theme-hydejack
 
 plugins:
   - jekyll-feed
