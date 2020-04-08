@@ -1,0 +1,43 @@
+{
+  
+  "name": "HHG2asciidoctor",
+  "short_name": "HHG2asciidoctor",
+  "description": "Find your own way and style through the rich asciidoctor-environment",
+  "start_url": "/HHG2asciidoctor/?utm_source=homescreen",
+  "theme_color": "#4fb1ba",
+  "background_color": "#fff",
+  "orientation": "portrait",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/HHG2asciidoctor/assets/icons/icon@0,25x.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/HHG2asciidoctor/assets/icons/icon@0,5x.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/HHG2asciidoctor/assets/icons/icon@0,75x.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/HHG2asciidoctor/assets/icons/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/HHG2asciidoctor/assets/icons/icon@2x.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "/HHG2asciidoctor/assets/icons/icon@3x.png",
+      "type": "image/png",
+      "sizes": "576x576"
+    }
+  ]
+}
